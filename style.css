@@ -1,0 +1,48 @@
+
+body{
+  background-image: url(images/ufo.jpg) !important; 
+  background-size: cover;
+  padding-top: 50px;
+}
+.navbar {
+  font-family: Montserrat, sans-serif;
+  margin-bottom: 0;
+  background-color: #000000 !important;
+  border: 0;
+  font-size: 11px !important;
+  letter-spacing: 4px;
+  opacity: 0.9;
+}
+.navbar li a, .navbar .navbar-brand { 
+  color: rgb(63, 184, 184) !important;
+  font-weight: bold;
+}
+.form-group{
+  padding-top: 65px;
+}
+.results{
+  padding-top: 65px; 
+ 
+}
+.col-md-12 h1 {
+  color: rgb(63, 184, 184);
+}
+
+.table-hover th{
+  color: rgb(63, 184, 184);
+ 
+}
+
+label{
+  color: rgb(63, 184, 184);
+}
+tbody{
+  color: rgb(63, 184, 184);
+  opacity: 60;
+}
+input{
+  opacity: 20;
+}
+
+
+
